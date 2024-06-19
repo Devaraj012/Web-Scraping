@@ -1,4 +1,4 @@
-# Web-Scraping
+# Web-Scraping: Flipkart
 This README provides an overview and guidance on web scraping product data from Flipkart using Python.
 
 # Overview
